@@ -89,11 +89,14 @@ Type `exit` to stop the program.
 
 ## Dataset
 
-The dataset contains messages labelled as `spam` or `ham`.
+## Dataset
 
-Dataset source: [UCI SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
+The dataset used in this project was obtained from Kaggle. It contains text messages labelled as `spam` or `ham`, which are used to train and evaluate the machine learning model.
 
-If redistributing the dataset, follow the dataset provider's applicable terms.
+**Dataset source:** Kaggle
+
+[View Kaggle Datasets](https://www.kaggle.com/datasets)
+
 
 ## Example
 
